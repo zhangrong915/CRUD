@@ -1,6 +1,6 @@
 # CRUD
 
-> A Vue.js project
+> A Vue.js project（增删改）
 
 ## Build Setup
 
